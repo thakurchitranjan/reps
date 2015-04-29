@@ -1,187 +1,233 @@
 <!DOCTYPE html>
-<html lang="en">
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"> <!--<![endif]-->
+
+<!-- Mirrored from activeaxon.com/arwa/ by HTTrack Website Copier/3.x [XR&CO'2013], Thu, 10 Oct 2013 07:03:00 GMT -->
 <head>
     <meta charset="utf-8">
-    <title>Web Design Company India, Web development India, Gurgaon</title>
+    <!--[if IE]>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <title>Weight Loss Diet,Ayurvedic Doctor & Nutritionist, Power Yoga, Dietitian in Dwarka Delhi</title>
+
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src='<?php echo base_url() ?>assets/js/ie-fixes.js'></script>
+    <link rel="stylesheet" href='<?php echo base_url() ?>assets/css/ie-fixes.css'>
+    <![endif]-->
+    <meta name="description" content="Dr. Anjana Kalia - Ayurvedic Doctor & Nutritionist in Dwarka Delhi, India -
+    Dr. Anjana Kalia is an expert in the area of weight loss and management. She has been actively working in the area of Nutrition based on blood type and Ayurvedic physical constitution (Vata, Pitta, and Kapha) since 2003.">
+    <meta name="keywords" content="Anajna kalia, dr anjana kalia, dietitian,Ayurvedic ,Nutritionist,weight loss, weight loss diet, weight loss program, power yoga, dietitian in delhi">
+
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Web design company India - Crontech is one of the best Web Design and Software Development organisation based in New-Delhi, India. Established with a vision to grow and excel. We have extensive & in-depth knowledge be it Website Design; Application Development our experience in managing technology projects, right from selecting tools and platforms, to implementing information technology solutions has shown results.">
-    <meta name="keywords" content="crontech,web design company,website development company India,,website designing india,android development,mobile development,website maintenance,web apps,seo company, affordable web design ">
-    <meta name="author" content="">
 
-    <!-- Le styles -->
-    <link rel="stylesheet" type="text/css" href='<?php echo base_url()?>assets/Featuredwork/css/style.css'/>
-    <link rel="stylesheet" type="text/css" href='<?php echo base_url()?>assets/Featuredwork/css/jquery.jscrollpane.css' media="all" />
-    <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow&v1' rel='stylesheet' type='text/css' />
-    <link href='http://fonts.googleapis.com/css?family=Coustard:900' rel='stylesheet' type='text/css' />
-    <link href='http://fonts.googleapis.com/css?family=Rochester' rel='stylesheet' type='text/css' />
-    <link rel="stylesheet" type="text/css" href='<?php echo base_url()?>assets/css/style8.css'/>
-      <link rel="stylesheet" type="text/css" href='<?php echo base_url()?>assets/css/style_common.css'/>
-    <link rel="stylesheet" type="text/css" href='<?php echo base_url()?>assets/css/maintenance-plan.css'/>
-    <!-- <link rel="stylesheet" type="text/css" href='<?php echo base_url()?>/assets/css/reset.css'/>-->
-    <link href='<?php echo base_url()?>css/style.css' rel="stylesheet" type="text/css" />
+    <!--- This should placed first off all other scripts -->
 
 
+    <link rel="stylesheet" href='<?php echo base_url() ?>assets/css/bootstrap.min.css'>
 
-    <link rel="stylesheet" type="text/css" href='<?php echo base_url()?>assets/css/whatwedo_style.css' media="all" />
-    <link href='<?php echo base_url()?>assets/css/bootstrap.css' rel="stylesheet">
+    <link rel="stylesheet" href='<?php echo base_url() ?>assets/css/normalize.css'>
+
+    <link rel="stylesheet" href='<?php echo base_url() ?>assets/css/font-awesome-ie7.css'>
+    <link rel="stylesheet" href='<?php echo base_url() ?>assets/css/font-awesome-ie7.min.css'>
+    <link rel="stylesheet" href='<?php echo base_url() ?>assets/css/font-awesome.css'>
+    <link rel="stylesheet" href='<?php echo base_url() ?>assets/css/font-awesome.min.css'>
+    <link rel="stylesheet" href='<?php echo base_url() ?>assets/css/revolution_settings.css'>
+    <link rel="stylesheet" href='<?php echo base_url() ?>assets/css/eislider.css'>
+    <link rel="stylesheet" href='<?php echo base_url() ?>assets/css/tipsy.css'>
+    <link rel="stylesheet" href='<?php echo base_url() ?>assets/css/prettyPhoto.css'>
+    <link rel="stylesheet" href='<?php echo base_url() ?>assets/css/isotop_animation.css'>
 
 
+    <!-- remprod -->
+    <link rel="stylesheet" href='<?php echo base_url() ?>assets/css/_color-chooser.css'>
+    <link rel="stylesheet" href='<?php echo base_url() ?>assets/css/_colorpicker.css'>
+    <!-- end remprod -->
 
 
-    <style type="text/css">
-        body {
-            /* padding-top: 80px;*/
-            padding-bottom: 40px;
+    <link href='<?php echo base_url() ?>assets/css/style.css' rel='stylesheet' type='text/css'>
+    <link href='<?php echo base_url() ?>assets/css/responsive.css' rel='stylesheet' type='text/css'>
 
-        }
-        .sidebar-nav {
-            padding: 9px 0;
-        }
 
-        @media (max-width: 980px) {
-            /* Enable use of floated navbar text */
-            .navbar-text.pull-right {
-                float: none;
-                padding-left: 5px;
-                padding-right: 5px;
-            }
-        }
+    <link href='<?php echo base_url() ?>assets/css/skins/mixed-flat-colors.css' rel='stylesheet' type='text/css' id="skin-file">
 
-            /* CUSTOMIZE THE CAROUSEL
-                -------------------------------------------------- */
-
-            /* Carousel base class */
-        .carousel {
-            margin-bottom: 0px;
-        }
-
-        .carousel .container {
-            position: relative;
-            z-index: 9;
-        }
-
-        .carousel-control {
-            height: 80px;
-            margin-top: 0;
-            font-size: 120px;
-            text-shadow: 0 1px 1px rgba(0,0,0,.4);
-            background-color: transparent;
-            border: 0;
-            z-index: 10;
-        }
-
-        .carousel .item {
-            height: 500px;
-        }
-        .carousel img {
-            position: absolute;
-            top: 0;
-            left: 0;
-            min-width: 100%;
-            height: 500px;
-        }
-
-        .carousel-caption {
-            background-color: transparent;
-            position: static;
-            max-width: 550px;
-            padding: 0 20px;
-            margin-top: 200px;
-        }
-        .carousel-caption h2{
-            margin: 0;
-            line-height: 1.25;
-            color: #fff;
-            text-shadow: 0 1px 1px rgba(0,0,0,.4);
-        }
-        .carousel-caption .lead {
-            margin: 0;
-            line-height: 1.25;
-            color: #ffd012;
-            /* text-shadow: 0 1px 1px rgba(0,0,0,.4);*/
-        }
-
-        .carousel-caption .btn {
-            margin-top: 10px;
-        }
+    <!-- remprod -->
+    <style type="text/css" id="skin-chooser-css">
 
     </style>
+    <!-- end remprod -->
 
 
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
 
-    <link href='<?php echo base_url()?>assets/css/bootstrap-responsive.css' rel="stylesheet">
+    <!-- Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Cuprum:400,400italic,700italic,700' rel='stylesheet'
+          type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,600,200,300' rel='stylesheet' type='text/css'>
 
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-    <script src='<?php echo base_url()?>assets/js/html5shiv.js'></script>
-    <![endif]-->
 
-    <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
-    <link rel="shortcut icon" href='<?php echo base_url()?>assets/ico/favicon.ico'>
 </head>
-
 <body>
-<?php
-
-$currentPage = basename($_SERVER['REQUEST_URI']);
-
-?>
-
-<div class="navbar navbar-inverse navbar-fixed-top">
 
 
-    <div class="navbar-inner">
+<!-- Sticky Nav -->
+<div class="sticky-navigation" id="sticky-navigation"></div>
+<!-- Sticky Nav -->
 
-        <div class="container-fluid">
-            <a href='<?php echo base_url()?>index.php/home'><img class="brand" src="<?php echo base_url('assets/images/logo.png');?>" alt="Crontech.in"></a>
+<div id="wrapper">
 
-            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <div class="nav-collapse collapse">
-                <ul class="nav pull-right">
+<style>
 
-
-                    <li class="<?=($this->uri->segment(2)==='home')?'active':'"'?>"><a href='<?php echo base_url()?>home' title="Home">Home</a></li>
-                    <li class="dropdown">
-                        <a data-toggle="dropdown" class="dropdown-toggle" href='<?php echo base_url()?>home/pages/whyus' >About<b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li class="<?=($this->uri->segment(2)==='aboutus')?'active':''?>"><a href='<?php echo base_url()?>home/pages/aboutus' title="Aboutus">About Crontech</a></li>
-                            <li class="<?=($this->uri->segment(2)==='whyus')?'active':''?>"><a href='<?php echo base_url()?>home/pages/whyus' title="WhyUs">Why Us?</a></li>
-                            <li class="<?=($this->uri->segment(2)==='meetourteam')?'active':''?>"><a href='<?php echo base_url()?>home/pages/ourexperts' title="meetourteam">Meet Our Experts</a></li>
-                            <li class="<?=($this->uri->segment(2)==='meetourteam')?'active':''?>"><a href='<?php echo base_url()?>home/pages/missionvalues' title="missionvalues">Mission & Values</a></li>
-                        </ul>
-                    </li>
-
-                    <li><a href='<?php echo base_url()?>#websitemaintenance' title="Pricing">Pricing</a></li>
-                    <li><a href='<?php echo base_url()?>home/view/portfolio' title="Portfolio">Portfolio</a></li>
-                    <li><a href='<?php echo base_url()?>home/services/services' title="Services">Services</a></li>
-                    <!--   <li class="dropdown">
-                        <a data-toggle="dropdown" class="dropdown-toggle" href='<?php echo base_url()?>home/services/services' title="Services">Services<b class="caret"></b></a>
-                                             <ul class="dropdown-menu">
-                           <li><a href='<?php echo base_url()?>home/services/services' title="Services">Web Design</a></li>
-                            <li><a href='<?php echo base_url()?>home/services/services' title="Services">Web Application Development</a></li>
-                            <li><a href='<?php echo base_url()?>home/services/services' title="Services">Mobile App Design & Development</a></li>
-                            <li><a href='<?php echo base_url()?>home/services/services' title="Services">SEo & Online Marketing</a></li>
-                            <li><a href='<?php echo base_url()?>home/services/services' title="Services">e-commerce Development</a></li>
-                            <li><a href='<?php echo base_url()?>home/services/services' title="Services">Social Media</a></li>
-                            <li><a href='<?php echo base_url()?>home/services/services' title="Services">Strategy and Consulting </a></li>
-                            <li class="divider"></li>
-                            <li class="nav-header">Discover the potential of IT development services with us.</li>
-
-                        </ul> -->
-                    <li><a href='<?php echo base_url()?>home/clients/list' title="Client List">Clients</a></li>
-                    <li><a href='<?php echo base_url()?>home/contactus/address' title="Contact us">Contact Us</a></li>
-                    <li class="loginbutton"><a href='<?php echo base_url()?>admin' title="Contact us">Client Login</a></li>
-                </ul>
-
-            </div><!--/.nav-collapse -->
-        </div>
-    </div>
+#floatingbuttons {
+position: fixed;
+bottom: 40%;
+float: left;
+padding: 0px 0px 3px;
+box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+background: none repeat scroll 0% 0% rgb(255, 255, 255);
+border-radius: 5px 5px 5px 5px;
+z-index: 10;
+right: 0%;
+border: 0px solid rgb(128, 128, 128);
+}
+#floatingbuttons .floatbutton{
+float:left;
+clear:both;
+margin:5px 4px 0 4px;
+} 
+.addbuttons{
+clear:both;
+text-align:center;
+padding-top:5px;
+} .addbuttons a span.getfloat, .addbuttons a span.sharebuttons{
+color:#fff;
+background:none;
+font-family:arial, sans-serif;display:block;font-size:9px;
+font-weight:bold;
+text-decoration:none;
+line-height:11px;
+} 
+.addbuttons a:hover span{
+color:#fff;
+background:none;
+text-decoration:underline;
+}
+</style>
+<br />
+<div id='floatingbuttons' style="text-align: center;" title="Social Connect">
+<div>
+<a href='https://www.facebook.com/Dr.Anjana.Kalia' title="Facebook Page" target="new_window">
+<img src='<?php echo base_url() ?>/assets/images/social-media/facebook.png'></a>
 </div>
+
+<div>
+<div class="fb-like" data-href="https://www.facebook.com/Dr.Anjana.Kalia" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div>
+</div>
+<!-- Medium Button -->
+
+<div style="padding: 2px;">
+<a href='http://in.linkedin.com/pub/dr-anjana-kalia/a/622/20/' title="Linked Profile" target="new_window">
+<img src='<?php echo base_url() ?>/assets/images/social-media/linkedin.png'></a>
+</div>
+
+<div style="padding: 2px;">
+<a href='http://www.youtube.com/channel/UCRM1PXdHyC3YFkQWnqF7qnw' title="YouTube Channel" target="new_window">
+<img src='<?php echo base_url() ?>/assets/images/social-media/youtube.png'></a>
+</div>
+
+</div>
+
+<div class="top_wrapper" style="margin-top: -20px;">
+
+<!-- Header -->
+<header class="top-header shadow">
+    <div class="container">
+
+        <div class="row-fluid header">
+            <!-- Logo -->
+            <div class="span2 logo">
+                <a href='<?php echo base_url()?>'>
+                    <img src='<?php echo base_url() ?>assets/images/logo.png' alt="Dr. Anjana Kalia"/>
+                </a>
+            </div>
+            <!-- //Logo// -->
+
+
+
+            <!-- Navigation File -->
+            <div class="span9" style=" margin-left: 0px;">
+
+                <!-- Mobile Button Menu -->
+                <div class="mobile-menu-button">
+                    <i class="icon-reorder"></i>
+                </div>
+                <!-- //Mobile Button Menu// -->
+
+
+
+
+                <nav>
+                    <ul class="navigation">
+                        <li>
+                            <a href='<?php echo base_url()?>'>Home</a>
+
+                        </li>
+                        <li>
+                            <a href='<?php echo base_url()?>home/page/about'>About me</a>
+
+                        </li>
+                        <li>
+                            <a href='<?php echo base_url()?>home/ayurvedapage/ayurveda'>Ayurveda for Health</a>
+
+                        </li>
+                        <li>
+                            <a>Services</a>
+                            <ul>
+                                <li>
+                                    <a href='<?php echo base_url()?>home/weight_loss/wl'>Weight Loss</a>
+                                </li>
+                                <li>
+                                    <a href='<?php echo base_url()?>home/power_yoga/py'>Power Yoga</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href='<?php echo base_url()?>home/mediapage/media'>Media</a>
+                        </li>
+
+                        <li>
+                            <a href='<?php echo base_url()?>home/contactpage/contact'>Contact Us</a>
+
+                        </li>
+                    </ul>
+
+                </nav>
+
+                <!-- Mobile Nav. Container -->
+                <ul class="mobile-nav">
+                    <li class="responsive-searchbox">
+                        <!-- Responsive Nave -->
+                        <form action="#" method="get">
+                            <input type="text" class="searchbox-inputtext" id="searchbox-inputtext-mobile"
+                                   name="s"/>
+                            <button class="icon-search"></button>
+                        </form>
+                        <!-- //Responsive Nave// -->
+                    </li>
+                </ul>
+                <!-- //Mobile Nav. Container// -->
+            </div>
+            <!-- Nav -->
+
+        </div>
+
+
+    </div>
+</header>

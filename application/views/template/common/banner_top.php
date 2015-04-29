@@ -18,28 +18,21 @@ if ($pname == 'services') {
 
     $pname = 'services';
     $titlename = 'SERVICES';
-    $description = 'Unmatched solutions, affordable pricing and deliver solution to earn your Trust,We bring all our expertise and domain knowledge in development!';
+    $description = 'Our business acumen and rich experience gives us an edge over our competitors. We analyze, we explore, we create and we deliver on time!';
 }
 
 if ($pname == 'list') {
 
     $pname = 'list';
     $titlename = 'CLIENTS';
-    $description = 'At Crontech - we understand that in today’s competitive marketplace, we all need a competitive advantage!';
+    $description = 'Our business acumen and rich experience gives us an edge over our competitors. We analyze, we explore, we create and we deliver on time!';
 }
 if ($pname == 'address') {
 
     $pname = 'address';
     $titlename = 'CONTACT US';
-    $description = 'Reaching us is not a difficult proposition really… all you need is a mind determined to hunt down a top-notch web solutions company!';
+    $description = 'Our business acumen and rich experience gives us an edge over our competitors. We analyze, we explore, we create and we deliver on time!';
 }
-if ($pname == 'website_maintenance_services') {
-
-    $pname = 'website_maintenance_services';
-    $titlename = 'Web Maintenance Simplified';
-    $description = 'Do not let your customer judge your Business by the look your website! We are here to fill the gap.';
-}
-
 $pname = "assets/images/" . $pname . ".jpg";
 ?>
 

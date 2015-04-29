@@ -13,7 +13,7 @@
                         <span class="ca-quote">&ldquo;</span>
                         <span> Fundooteez.com is a premium Indian brand where people can submit, review, vote and buy amazing designs created by young and talented designers from around the world.</span>
                     </h4>
-                    <a href="#" class="remove-ca-more">Case Study...</a>
+                    <a href="#" class="ca-more">Case Study...</a>
                 </div>
                 <div class="ca-content-wrapper">
                     <div class="ca-content">
@@ -41,7 +41,7 @@
                         <span class="ca-quote">&ldquo;</span>
                         <span>A contemporary website designed & developed in vogue with the latest trends of the fashion industry!</span>
                     </h4>
-                    <a href="#" class="remove-ca-more">Case Study...</a>
+                    <a href="#" class="ca-more">Case Study...</a>
                 </div>
                 <div class="ca-content-wrapper">
                     <div class="ca-content">
@@ -69,7 +69,7 @@
                         <span class="ca-quote">&ldquo;</span>
                         <span>I The only shortcoming in the dictum Go Green is it demands a voluntary mass awakening and thus it remains in the To Do list of selected NGOs n a few Corporate and in the Parking Lot for most of us</span>
                     </h4>
-                    <a href="#" class="remove-ca-more">Case Study...</a>
+                    <a href="#" class="ca-more">Case Study...</a>
                 </div>
                 <div class="ca-content-wrapper">
                     <div class="ca-content">
@@ -99,7 +99,7 @@
 
 Much above the average ARAB food in Delhi NCR.</span>
                     </h4>
-                    <a href="#" class="remove-ca-more">Case Study...</a>
+                    <a href="#" class="ca-more">Case Study...</a>
                 </div>
                 <div class="ca-content-wrapper">
                     <div class="ca-content">
@@ -127,7 +127,7 @@ Much above the average ARAB food in Delhi NCR.</span>
                         <span class="ca-quote">&ldquo;</span>
                         <span>Indiashopinnet.com is the leading online grocery shopping store offering variety of grocery & consumer products in Chandigarh, Panchkula & Mohali.</span>
                     </h4>
-                    <a href="#" class="remove-ca-more">Case Study...</a>
+                    <a href="#" class="ca-more">Case Study...</a>
                 </div>
                 <div class="ca-content-wrapper">
                     <div class="ca-content">

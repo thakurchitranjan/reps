@@ -1,74 +1,90 @@
-    <!-- Carousel
-    ================================================== -->
-    <div id="myCarousel" class="carousel slide">
-      <div class="carousel-inner">
-        <div class="item active">
-          <img src="<?php echo base_url('assets/images/slide-01d.jpg');?>" alt="">
-          <div class="container">
+<div class="headertop needhead" >
+    <!-- BLURED BACKGROUND-->
+    <div class="action-banner-bg"></div>
+    <!-- END BLURED BACKGROUND-->
 
-              <div class="carousel-caption" style="font-family: 'Century Gothic';">
-              <h2 style="color: #ffffff;">We Manage Things For You, So That You Can Rest Assured</h2>
-
-              <p class="lead" style=" margin-top: 12px; font-size:18px; color: #ffffff;">Your own team of website maintenance Experts.
-Send us the changes. We get it done.</p>
-                  <a class="btn btn-large btn-primary" href="#websitemaintenance"><strong>Experience the Change !</strong></a>
-
-            </div>
+    <!-- PIXEL BG DOTTS UNDER BLURED BACKGROUND-->
+    <div class="action-banner-bg-top"></div>
+    <!-- END PIXEL BG DOTTS UNDER BLURED BACKGROUND-->
 
 
-
-
-
-          </div>
-
+    <!-- SLIDER START-->
+<div class="banner-rotator">
+    <div id="da-slider" class="da-slider">
+        <div class="da-slide">
+            <h2>Urban,Rural Accross the Nation</h2>
+            <p> There are many Reasons to choose PARLAX for infrastructure needs.</p>
+					<span class="da-link">
+						<a href="features.html" class="">
+                            <span class="main-link"><i class="fa-icon-tablet"></i> Availible on market</span>
+                            <span class="arrow"> &rarr;</span>
+                        </a>
+					</span>
+            <div class="da-img visible-desktop"><img src='<?php echo base_url()?>assets/images/fiber_copper.jpg' alt="image01" /></div>
+        </div>
+        <div class="da-slide">
+            <h2>Fast, Friendly & Flexible</h2>
+            <p>Tall towers that support both broadcast equipment and other communications technologies. Let our experience helping broadcasters assist you in growing your network.</p>
+					<span class="da-link">
+						<a href="features.html" class="">
+                            <span class="main-link">View Our project</span>
+                            <span class="arrow"> <i class="fa-icon-eye-open"></i></span>
+                        </a>
+					</span>
+            <div class="da-img visible-desktop"><img src='<?php echo base_url()?>assets/images/tower1.png' alt="image01" /></div>
+        </div>
+        <div class="da-slide">
+            <h2>1200+ sites across nation</h2>
+            <p>Our more than 1200 wireless towers provide ample opportunity to Telecom Service Providers to help them in improve the coverage and capacity of network. </p>
+					<span class="da-link">
+						<a href="features.html" class="">
+                            <span class="main-link">Download now!</span>
+                            <span class="arrow"><i class="fa-icon-download-alt"></i> </span>
+                        </a>
+					</span>
+            <div class="da-img visible-desktop"><img src='<?php echo base_url()?>assets/images/fiber_copper.jpg' alt="image01" /></div>
         </div>
 
-
-
-        <div class="item">
-          <img src="<?php echo base_url('assets/images/fw-1.jpg');?>" alt="">
-          <div class="container">
-            <div class="carousel-caption">
-              <h2 style="color: #ffffff;">Website Maintenance at Ease !</h2>
-
-
-            </div>
-              <div class="span3" style=" color: #ffffff; margin-top: 10px;">
-                  <ul>
-                      <li type=circle><h4 style="font-weight: normal;">Easy Pricing Plans</h4></li>
-                      <li type=circle><h4 style="font-weight: normal;">Excellent Customer Service</h4></li>
-                      <li type=circle><h4 style="font-weight: normal;">Premium Website Support</h4></li>
-                      <li type=circle><h4 style="font-weight: normal;">Complete Satisfaction</h4></li>
-
-                  </ul>
-              </div>
-              <div class="span4" style="color: #ffffff;  margin-top: 10px;" >
-                  <ul>
-                      <li type=circle><h4 style="font-weight: normal;">Money Back Guarantee</h4></li>
-                      <li type=circle><h4 style="font-weight: normal;">No Hidden Fees, Cancel Anytime</h4></li>
-                      <li type=circle><h4 style="font-weight: normal;">Hassle Free</h4></li>
-                      <li type=circle><h4 style="font-weight: normal;">Rapid Response</h4></li>
-                  </ul>
-
-              </div>
-              <div class="span8" style="color: #ffffff;  margin-top: 10px;" >
-              <a class="btn btn-large btn-primary" href="#websitemaintenance"><strong>GET STARTED >> </strong></a>
-              </div>
-          </div>
-
+        <nav class="da-arrows">
+            <span class="da-arrows-prev"></span>
+            <span class="da-arrows-next"></span>
+        </nav>
+    </div>
+</div>
+<!-- SLIDER [END]-->
+<!-- SOCIAL PANEL UNDER MENU-->
+<div class="top-soc hidden-phone"  style="margin-top:-100px;">
+    <div class="container">
+        <div class="row">
+            <ul class="social-top">
+                <li><a href="#" title="">
+                        <i class="fa-icon-facebook"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" title="">
+                        <i class="fa-icon-twitter"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" title="">
+                        <i class="fa-icon-github-alt"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" title="">
+                        <i class="fa-icon-google-plus"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="sitemap.html" title="">
+                        <i class="fa-icon-sitemap"></i>
+                    </a>
+                </li>
+            </ul>
         </div>
-          <!--
-       <div class="item">
-         <img src="assets/images/slide-03.jpg" alt="">
-         <div class="container">
-           <div class="carousel-caption">
-             <h1>One more for good measure.</h1>
-             <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-             <a class="btn btn-large btn-primary" href="#">Browse gallery</a>
-           </div>
-         </div>
-       </div> -->
-      </div>
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-      <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
-    </div><!-- /.carousel -->
+    </div>
+</div>
+<!--END SOCIAL PANEL UNDER MENU-->
+</div>
+<!-- END HEADER headertop -->

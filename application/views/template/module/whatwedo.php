@@ -16,7 +16,7 @@ padding-top:10px;
 
 
     <div style="margin-bottom: 30px; ">
-        <h3 style="color:#cf2900;"> WHAT WE DO</h3>
+        <h3 style="color:#e32a20;"> WHAT WE DO</h3>
         <h4 style="color: #404040; font-weight: normal; padding: 0px 70px 0px 70px;">We don't just design websites. We look at your online business goals and provide you </br>with value added services such as strategic planning, copywriting and internet marketing.</h4>
     </div>
 
@@ -40,7 +40,7 @@ padding-top:10px;
 
             </li>
         </ul>
-        <h5 style="color:#cf2900;">SEO & Internet Marketing</h5>
+        <h5 style="color:#e32a20;">SEO & Internet Marketing</h5>
 
         <img style="margin-top:-15px;" src="<?php echo base_url('assets/images/divider_small.png');?>" />
 
@@ -68,7 +68,7 @@ padding-top:10px;
 
             </li>
         </ul>
-        <h5 style="color:#cf2900;">Web Design&Development</h5>
+        <h5 style="color:#e32a20;">Web Design & Development</h5>
 
         <img style="margin-top:-15px;" src="<?php echo base_url('assets/images/divider_small.png');?>" />
 
@@ -98,7 +98,7 @@ padding-top:10px;
 
             </li>
         </ul>
-        <h5 style="color:#cf2900;">Website Maintenance</h5>
+        <h5 style="color:#e32a20;">Website Maintenance</h5>
 
         <img style="margin-top:-15px;" src="<?php echo base_url('assets/images/divider_small.png');?>" />
 
@@ -125,7 +125,7 @@ padding-top:10px;
 
             </li>
         </ul>
-        <h5 style="color:#cf2900;">Strategy & Consulting</h5>
+        <h5 style="color:#e32a20;">Strategy & Consulting</h5>
 
         <img style="margin-top:-15px;" src="<?php echo base_url('assets/images/divider_small.png');?>" />
 
@@ -148,7 +148,7 @@ padding-top:10px;
 
             </li>
         </ul>
-        <h5 style="color:#cf2900;">Mobile App Developmentt</h5>
+        <h5 style="color:#e32a20;">Mobile App Developmentt</h5>
 
 
         <img style="margin-top:-15px;" src="<?php echo base_url('assets/images/divider_small.png');?>" />
